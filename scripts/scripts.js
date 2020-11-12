@@ -181,6 +181,7 @@
         }
 
     });
+    slider_com_body.slick('setPosition');	
 });
 
 
