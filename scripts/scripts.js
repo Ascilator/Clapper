@@ -96,7 +96,7 @@
             },
         ]
     });
-
+    slider_com_body.slick('setPosition');	
 
     slider_spec_body.slick({
         infinite: false,
