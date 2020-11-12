@@ -181,7 +181,12 @@
         }
 
     });
-    slider_com_body.slick('setPosition');	
+    slider_com_body.slick('setPosition');
+ slider_com_body.slick('setPosition');	
+     slider_com_body.slick('setPosition');	
+     slider_com_body.slick('setPosition');	
+     slider_com_body.slick('setPosition');	
+     slider_com_body.slick('setPosition');	
 });
 
 
