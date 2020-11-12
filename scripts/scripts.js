@@ -76,7 +76,7 @@
         slidesToShow: 3,
         slideToScroll: 1,
         //variableWidth: true,
-        vertical: false,
+        
         nextArrow: $('.slider_com_next'),
         prevArrow: $('.slider_com_prev'),
         //autoplay: true,
