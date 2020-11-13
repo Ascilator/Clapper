@@ -884,6 +884,7 @@ textarea {
 }
 
 .companies .com_cont .slider_com_body .com_item {
+  flex: 0 1 calc(33.333% - 20px);
   margin: 0 10px;
   position: relative;
 }
