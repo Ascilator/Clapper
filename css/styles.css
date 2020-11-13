@@ -1144,7 +1144,7 @@ textarea {
   cursor: pointer;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1600px) {
   .specialists .slider_spec_cont .slider_spec_prev, .specialists .slider_spec_cont .slider_spec_next {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 40px;
