@@ -527,6 +527,7 @@ textarea {
 
 .first_big_screen .first_footer .what_you_get_cont .what_you_get_item .item_title {
   font-weight: bold;
+  display: inline-block;
   font-size: 24px;
   line-height: 28px;
   color: #000000;
