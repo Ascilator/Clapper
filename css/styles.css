@@ -561,6 +561,8 @@ textarea {
 
 .first_big_screen .first_footer .what_you_get_cont .what_you_get_item:hover .item_title {
   font-size: 36px;
+  padding-bottom 3px;
+  border-bottom: 2px solid #000;
   line-height: 41px;
   margin-bottom: 6px;
 }
@@ -672,6 +674,7 @@ textarea {
 }
 
 .categories .slider_body .card_item {
+  text-align: center;
   -webkit-box-flex: 0;
       -ms-flex: 0 1 303px;
           flex: 0 1 303px;
