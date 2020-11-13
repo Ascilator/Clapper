@@ -1191,7 +1191,7 @@ textarea {
   }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1600px) {
   .specialists .slider_spec_cont {
     display: -webkit-box;
     display: -ms-flexbox;
